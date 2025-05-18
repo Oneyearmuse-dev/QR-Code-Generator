@@ -1,4 +1,5 @@
 This is using PowerShell GUI code to create QR Codes from text using then open source QRCode.dll, you are welcome to use the code free of charge please however leave my credits in place.
+More inforation in the wiki page.
 
 Make sure the files are placed in to the folder C:\QR Code Generator
 
